@@ -19,9 +19,9 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 * README.md - Documentation
 
 ## Result Summary:
->  The price of Entire home is higher than that of Private room, and the price of Private room is higher than that of Shared room.
->  The review scores of low availability is a bit higher, but the difference is quite narrow.
->  The best linear regression model achieves a r2 score of 0.56. Among the coefficients of the best model, the room type matters most. The shared room has the biggest negative correlation with the price. The private room has the second biggest negative correlation with the price.
+*  The price of Entire home is higher than that of Private room, and the price of Private room is higher than that of Shared room.
+*  The review scores of low availability is a bit higher, but the difference is quite narrow.
+*  The best linear regression model achieves a r2 score of 0.56. Among the coefficients of the best model, the room type matters most. The shared room has the biggest negative correlation with the price. The private room has the second biggest negative correlation with the price.
 
 ## Acknowledgements
 In this project, I have benifited the knowledge from Udacity program Data Scientist and worked based on some demo codes from Putting It All Together - Solution.ipynb.
