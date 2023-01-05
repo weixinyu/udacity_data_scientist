@@ -7,11 +7,11 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 3. How well can we predict the price?
 
 ##  Libraries:
-numpy - The fundamental package for scientific computing with Python
-pandas - Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, and most of the data analysis in this project is based on the dataframe in Pandas.
-matplotlib - This is package used for generating statistics plot
-sklearn - This is a simple and efficient tools for predictive data analysis, and the linear regression model in this package is used in this project
-seaborn - This is a powerful Python data visualization library based on matplotlib. It provides high level interface for drawing statistical graphics.
+* numpy - The fundamental package for scientific computing with Python
+* pandas - Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, and most of the data analysis in this project is based on the dataframe in Pandas.
+* matplotlib - This is package used for generating statistics plot
+* sklearn - This is a simple and efficient tools for predictive data analysis, and the linear regression model in this package is used in this project
+* seaborn - This is a powerful Python data visualization library based on matplotlib. It provides high level interface for drawing statistical graphics.
 
 
 ## Project Repository files:
