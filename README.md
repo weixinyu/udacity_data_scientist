@@ -15,8 +15,8 @@ seaborn - This is a powerful Python data visualization library based on matplotl
 
 
 ## Project Repository files:
-├── Airbnb_Data_Exploration.ipynb                  //Code with appropriate comments, analysis, and documentation.
-└── README.md               			   ////Documentation
+* Airbnb_Data_Exploration.ipynb - Code with appropriate comments, analysis, and documentation.
+* README.md - Documentation
 
 ## Result Summary:
 >  The price of Entire home is higher than that of Private room, and the price of Private room is higher than that of Shared room.
